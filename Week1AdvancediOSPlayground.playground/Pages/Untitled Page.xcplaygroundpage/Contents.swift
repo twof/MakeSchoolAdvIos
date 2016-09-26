@@ -1,8 +1,8 @@
 //: Playground - noun: a place where people can play
 
 import UIKit
-
-var str = "Hello, playground"
+//Today we're talking about closures
+//closures are anonymous functions that are passed to other functions as arguments/parameters
 
 func add(value1: Int, and value2: Int) -> Int {
     let result = value1 + value2
@@ -40,3 +40,16 @@ calculate(a: 2, b: 3, calculateFunction: multiply)
 calculate(a: 2, b: 3) { (value1, value2) -> Int in
     return value1-value2
 }
+
+/*
+ Wrapping a web api:
+ No direct networking calls
+ strongly typed return data rather than untyped json
+ No string based interaction
+ not dealing with building urls
+ 
+ going to be working with openweathermap api
+ 
+ */
+
+
