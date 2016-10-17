@@ -41,6 +41,57 @@ calculate(a: 2, b: 3) { (value1, value2) -> Int in
     return value1-value2
 }
 
+//day two
+//today we talk about generics
+
+func swapFirstAndLast<T>(array: [T]) -> [T] {
+    var newArray = array
+    let temp = newArray[0]
+    newArray[0] = newArray[newArray.count-1]
+    newArray[array.count-1] = temp
+    return newArray
+}
+
+var value = "asdfsdf"
+
+
+var array = ["sfdf", "sfff", "hello", "Hey"]
+
+swapFirstAndLast(array: array)
+
+func findFirst<T: Equatable>(element: T, array: [T]) -> Int?{
+    for (index, arrayElement) in array.enumerated() {
+        if arrayElement == element {
+            
+            return index
+        }
+    }
+    return nil
+}
+
+func deleteFirst<T: Equatable>(element: T, array: [T]) -> [T]{
+    var newArray = array
+    
+    for (index, arrayElement) in newArray.enumerated() {
+        if arrayElement == element {
+            newArray.remove(at: index)
+            return newArray
+        }
+    }
+    return array
+}
+
+deleteFirst(element: "hello", array: array)
+findFirst(element: "Hey", array: array)
+
+
+private func `struct`(myString: String) {
+    print(myString)
+}
+
+let `class` = "Why"
+print(`class`)
+
 /*
  Wrapping a web api:
  No direct networking calls
