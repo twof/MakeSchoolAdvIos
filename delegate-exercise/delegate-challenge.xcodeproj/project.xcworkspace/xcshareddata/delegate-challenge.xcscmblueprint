@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FD49DD7639D6BFE51B81A5ABCE720C7BDB6F290D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FD49DD7639D6BFE51B81A5ABCE720C7BDB6F290D" : 9223372036854775807,
+    "DAD6D476A0DFB94D37201085A761E11CEF3616A1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "05600D6A-96DD-4A84-BF99-53BCF8E562CE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FD49DD7639D6BFE51B81A5ABCE720C7BDB6F290D" : "delegate-exercise\/",
+    "DAD6D476A0DFB94D37201085A761E11CEF3616A1" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "delegate-challenge",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "delegate-challenge.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/twof\/MakeSchoolAdvIos.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DAD6D476A0DFB94D37201085A761E11CEF3616A1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nikolasburk\/delegate-exercise.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FD49DD7639D6BFE51B81A5ABCE720C7BDB6F290D"
+    }
+  ]
+}
