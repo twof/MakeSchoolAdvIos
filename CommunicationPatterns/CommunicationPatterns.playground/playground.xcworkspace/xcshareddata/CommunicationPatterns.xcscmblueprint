@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0526D417A34538135FC546D5A9376C560AC34893",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0526D417A34538135FC546D5A9376C560AC34893" : 9223372036854775807,
+    "DAD6D476A0DFB94D37201085A761E11CEF3616A1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9FB645DC-5099-41A3-873F-E6E4AA56E5BA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0526D417A34538135FC546D5A9376C560AC34893" : "CommunicationPatterns\/",
+    "DAD6D476A0DFB94D37201085A761E11CEF3616A1" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CommunicationPatterns",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CommunicationPatterns.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MakeSchool-18\/CommunicationPatterns.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0526D417A34538135FC546D5A9376C560AC34893"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/twof\/MakeSchoolAdvIos.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DAD6D476A0DFB94D37201085A761E11CEF3616A1"
+    }
+  ]
+}
