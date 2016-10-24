@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1415471D05C850BC1290817423DD08F3B505F2FD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1415471D05C850BC1290817423DD08F3B505F2FD" : 9223372036854775807,
+    "DAD6D476A0DFB94D37201085A761E11CEF3616A1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C0B82FF9-08A0-4302-AEB0-36C6CE96C3B9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1415471D05C850BC1290817423DD08F3B505F2FD" : "protocol-challenges\/",
+    "DAD6D476A0DFB94D37201085A761E11CEF3616A1" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Protocols",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Protocols.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nikolasburk\/protocol-challenges",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1415471D05C850BC1290817423DD08F3B505F2FD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/twof\/MakeSchoolAdvIos.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DAD6D476A0DFB94D37201085A761E11CEF3616A1"
+    }
+  ]
+}
