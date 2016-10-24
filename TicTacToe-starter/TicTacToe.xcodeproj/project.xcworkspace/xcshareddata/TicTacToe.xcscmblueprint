@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0803E1B62FEC5BE8ADB6FF3F3C9F3EA49DE154E5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DAD6D476A0DFB94D37201085A761E11CEF3616A1" : 9223372036854775807,
+    "0803E1B62FEC5BE8ADB6FF3F3C9F3EA49DE154E5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A84E6036-0214-4C44-B3B2-003BFC1ADC32",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DAD6D476A0DFB94D37201085A761E11CEF3616A1" : "",
+    "0803E1B62FEC5BE8ADB6FF3F3C9F3EA49DE154E5" : "TicTacToe-starter\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TicTacToe",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TicTacToe.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nikolasburk\/TicTacToe-starter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0803E1B62FEC5BE8ADB6FF3F3C9F3EA49DE154E5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/twof\/MakeSchoolAdvIos.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DAD6D476A0DFB94D37201085A761E11CEF3616A1"
+    }
+  ]
+}
